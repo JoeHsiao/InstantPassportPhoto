@@ -11,4 +11,4 @@ Key Features:
 
 ### Support or Contact
 
-Having trouble with the app? Contact <instantpassport.help@gmail.com> and we’ll help you sort it out.
+Having trouble with the app? Contact <instantpassportphoto.help@gmail.com> and we’ll help you sort it out.
