@@ -1,5 +1,3 @@
-## Instant Passport Photo
-
 <img src="images/1_camera.png" width="100"> <img src="images/2_multiple_photos.png" width="100"> <img src="images/3_photo_printings.png" width="100">
 <br/>
 <br/>
